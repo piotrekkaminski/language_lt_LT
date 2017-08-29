@@ -3,10 +3,10 @@ This is a Language Pack generated from the [official Magento2 translations proje
 The Lithuanian (lietuvių) translations used can be found [here](https://crowdin.com/project/magento-2/lt).
 
 # Version & progress
-This translation is generated from the branch [Head](https://crowdin.com/project/magento-2/lt#/Head) at Crowdin and based on the Magento Head sourcefiles.
-There have been  7892 strings translated of the 12595 strings in the Magento source.
+This translation is generated from the branch [2.1.8](https://crowdin.com/project/magento-2/lt#/2.1.8) at Crowdin and based on the Magento 2.1.8 sourcefiles.
+There have been  12160 strings translated of the 12160 strings in the Magento source.
 
-Translation progress:![Progress](http://progressed.io/bar/63)
+Translation progress:![Progress](http://progressed.io/bar/100)
 
 # Instalation
 ## Via composer
